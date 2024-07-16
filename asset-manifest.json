@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/author-guess/static/css/main.2ebe7d73.css",
-    "main.js": "/author-guess/static/js/main.1cd80de9.js",
+    "main.js": "/author-guess/static/js/main.6c598af0.js",
     "static/js/453.4c5de423.chunk.js": "/author-guess/static/js/453.4c5de423.chunk.js",
     "index.html": "/author-guess/index.html",
     "main.2ebe7d73.css.map": "/author-guess/static/css/main.2ebe7d73.css.map",
-    "main.1cd80de9.js.map": "/author-guess/static/js/main.1cd80de9.js.map",
+    "main.6c598af0.js.map": "/author-guess/static/js/main.6c598af0.js.map",
     "453.4c5de423.chunk.js.map": "/author-guess/static/js/453.4c5de423.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ebe7d73.css",
-    "static/js/main.1cd80de9.js"
+    "static/js/main.6c598af0.js"
   ]
 }
